@@ -1,0 +1,27 @@
+#Electronic-clock {
+    background-color: antiquewhite;
+    width: 35%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 64px;
+
+
+}
+
+#style h2 {
+    color:rgb(255, 102, 0) ;
+}
+
+.a {
+    background-color: aqua;
+    border-radius: 10px;
+    width: max-content;
+}
+#style {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
